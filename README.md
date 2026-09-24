@@ -80,11 +80,6 @@ The script auto-detects header offset, filters consortium papers (>50 authors), 
 - **Live formulas** — all percentages are computed by Excel, not pre-baked
 - **Production-tested** — used in 2 real-world cases (Yale × China, Stanford × SJTU)
 
-## 📦 Examples
-
-- [examples/yale-china/](examples/yale-china/) — 2,664 papers, 7 sheets, 318 formulas
-- [examples/stanford-sjtu/](examples/stanford-sjtu/) — 456 papers (after filter), 7 sheets, 56 formulas, bilingual EN+中文
-
 ## 🛠️ Tech stack
 
 - Python 3.10+
