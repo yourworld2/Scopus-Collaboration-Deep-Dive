@@ -1,0 +1,12 @@
+# Core dependencies
+pandas>=1.5.0
+numpy>=1.20.0
+openpyxl>=3.0.0
+lxml>=4.9.0
+
+# Optional: for headless XLSX repair
+# libreoffice (system package) — install via your OS package manager
+
+# Testing
+pytest>=7.0.0
+pytest-cov>=4.0.0
